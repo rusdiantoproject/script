@@ -1,0 +1,1 @@
+javascript:for( i = 1;i<document.getElementsByName("actions[accept]").length;i++){document.getElementsByName("actions[accept]")[i].click();}void(0);
